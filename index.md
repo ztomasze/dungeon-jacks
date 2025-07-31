@@ -15,7 +15,7 @@ Remove any jokers from the deck and set them aside.  They will not be used.
 
 ##### Hero Cards
 
-Remove the 16 face cards (J, Q, K, A) from the deck and shuffle them together. From this face-card deck, draw cards until you reveal four cards that are all of a unique rank (J, Q, K, A) and a unique suit (D, H, S, C).  This forms your band of heroes.
+Remove the 16 face cards and aces (J, Q, K, A) from the deck and shuffle them together. From this face-card deck, draw cards until you reveal four cards that are all of a unique rank (J, Q, K, A) and a unique suit (D, H, S, C).  This forms your band of heroes.
 
 > **Example**  
 > You draw the Jack of Hearts (JH), which becomes your first hero.  Next, you draw the King of Hearts (KH), but you already have a Hearts card. Next is the Jack of Spades (JS), but you already have a Jack. The next two cards are the Queen of Spades (QS) and the Ace of Clubs (AC), which become your second and third heroes.  Now, the only remaining card that will fit in this party is the King of Diamonds (KD), so you hunt through the rest of the face-card deck to find it.
@@ -33,12 +33,12 @@ Place the corresponding number of dice on each card, using a different color or 
 
 Your hero's suit determines their class:
 
-| Suit     | Class   | Description                       | Ability                                                                  |
-| -------- | ------- | --------------------------------- | ------------------------------------------------------------------------ |
-| Diamonds | Wizard  | A flashy spellcaster              | Can apply 6s against Heart cards and when fleeing                        |
-| Hearts   | Cleric  | A healing spellcaster             | Can apply 6s against Heart cards    <br>Can attempt to heal other heroes |
-| Spades   | Rogue   | A sneaky backstabbing combatant   | Can reroll 1s vs Spades                                                  |
-| Clubs    | Fighter | A burly straightforward combatant | Can reroll 1s vs Clubs                                                   |
+| Suit     | Class   | Description                       | Ability                                                     |
+| -------- | ------- | --------------------------------- | ----------------------------------------------------------- |
+| Diamonds | Wizard  | A flashy spellcaster              | Can apply 6s vs Hearts and when fleeing                     |
+| Hearts   | Cleric  | A healing spellcaster             | Can apply 6s vs Hearts and can attempt to heal other heroes |
+| Spades   | Rogue   | A sneaky backstabbing combatant   | Can reroll 1s vs Spades                                     |
+| Clubs    | Fighter | A burly straightforward combatant | Can reroll 1s vs Clubs                                      |
 
 The abilities are explained in detail below.
 
@@ -56,7 +56,7 @@ Place the dungeon deck to one side of your four hero cards.  You will draw cards
 
 ### Playing
 
-Your goal is play through the entire dungeon deck, collecting all the Diamond cards (treasure) that you can.  If you ever lose the dice from all four of your hero cards, you lose.
+Your goal is to play through the entire dungeon deck, collecting all the Diamond cards (treasure) that you can.  If you ever lose the dice from all four of your hero cards, you lose.
 
 ##### Draw the next encounter
 
@@ -89,7 +89,7 @@ Select dice from your heroes to form a pool of dice and then roll it against thi
 Total the remaining dice in the encounter pool. 
 
 * If the total is &gt;= the rank of the monster card (plus any Hearts cards you failed to undercut), you win the encounter. Collect any Diamonds cards into your treasure pile, and discard the rest of the encounter cards into a dungeon discard pile.
-* If you fail, you collect none of the treasure and you must Flee (below).  Then discard all the encounter cards.
+* If you fail, you collect none of the treasure and you must flee (below).  Then discard all the encounter cards.
 
 > **Tip**  
 > Whenever you roll against Hearts or use a red hero ability, you're trying to roll low.  Whenever you roll against a black card or use a black hero ability, you're trying to roll high.
@@ -101,7 +101,7 @@ You can choose to flee from an encounter instead of fighting. If you lose a figh
 To flee, roll one die taken from any hero card.  You are trying to undercut a 1:
 
 + On a 6, the die is exhausted without effect. You have not yet escaped, so you must roll another die to flee.
-	+ Wizards (Diamonds hero) are particularly good at flashy distractions: If a Wizard die comes up as 6, the die is exhausted but you manage to escape.
+	+ Wizards (Diamonds hero) are particularly good at flashy distractions: If a Wizard die comes up as a 6, the die is exhausted but you manage to escape.
 + On a 2 to 5, you escape, but the die is exhausted.
 + On a 1, you miraculously escape with no die lost.
 
@@ -115,7 +115,7 @@ Roll one of the Cleric's dice to undercut a 3:
 + On a 4 or 5, nothing happens.
 + On a 6, the Cleric's die is exhausted.
 
-If the Cleric has no dice during this Healing phase, they can instead attempt to recover one through prayer. Roll one of the Cleric's dice in the exhaustion pool.  On a 6, the Cleric recovers it.
+If the Cleric has no dice to roll during this Healing phase, they can instead attempt to recover one through prayer. Roll one of the Cleric's dice in the exhaustion pool.  On a 6, the Cleric recovers it.
 
 ##### Next Encounter
 
@@ -137,7 +137,7 @@ If you'd like, you can play again with the same party of heroes.
 
 * Put your treasure pile back into the dungeon deck.
 * Add another Big Bad card to the dungeon deck.  (You don't need to put the Big Bad into the second half of the deck this time.)
-* For every 2 Big Bad cards in the deck, add one Diamonds face card (if still available). This represents a magic item. Once collected, you can choose to retain magic items in your treasure pile between dungeons.  At any time, you can expend a magic item from your treasure pile to add a phantom die that counts as a 6 to your encounter pool. Once expended, return the magic item card to the face-card deck.
+* For every 2 Big Bad cards in the deck, add one Diamonds face card (if still available). This represents a magic item. Once collected, you can choose to retain magic items in your treasure pile between dungeons.  At any time, you can expend a magic item from your treasure pile to add a phantom die that has a value of either 0 or 6 (that does not exhaust) to your encounter or fleeing pool. Once expended, return the magic item card to the face-card deck.
 
 You can thus play through 6 dungeons of increasing difficulty, with the last dungeon containing 6 Big Bads. Keep a running tally of all treasure earned and magic items retained to determine your party's final score. 
 
