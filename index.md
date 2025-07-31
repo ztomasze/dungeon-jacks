@@ -139,7 +139,7 @@ If you'd like, you can play again with the same party of heroes.
 * Add another Big Bad card to the dungeon deck.  (You don't need to put the Big Bad into the second half of the deck this time.)
 * Add magic item cards (see below) such that the dungeon deck contains 2 magic items.  However, if heroes are currently holding 4 or 5 magic items, there will be only 1 or 0 magic item cards left to add to the dungeon deck.
 
-You can thus play through 6 dungeons of increasing difficulty, with the last dungeon containing 6 Big Bads. Keep a running tally of all treasure earned in each dungeon to determine your party's final score. 
+You can thus play through 6 dungeons of increasing difficulty, with the last dungeon containing 6 Big Bads. Keep a running tally of all treasure earned in each dungeon to determine your party's final score. If, through a combination of luck and skill, you can earn 300+ points, you are a Dungeon Ace!
 
 ##### Magic Items
 
