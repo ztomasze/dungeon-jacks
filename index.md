@@ -11,7 +11,7 @@ You will use only 10 of the dice at a time during a single dungeon crawl, but th
 
 ### Setup
 
-Remove any jokers from the deck and set them aside.  They will not be used.
+Remove any jokers from the deck and set them aside for now.
 
 ##### Hero Cards
 
@@ -96,9 +96,9 @@ Total the remaining dice in the encounter pool.
 
 ##### Fleeing
 
-You can choose to flee from an encounter instead of fighting. If you lose a fight, you must then flee. 
+You can choose to flee from an encounter instead of fighting. If you lose a fight, you must then flee.
 
-To flee, roll one die taken from any hero card.  You are trying to undercut a 1:
+To flee, roll one die taken from any hero card. If you are fleeing a fight, you can reuse any die from you encounter pool.  You are trying to undercut a 1:
 
 + On a 6, the die is exhausted without effect. You have not yet escaped, so you must roll another die to flee.
 	+ Wizards (Diamonds hero) are particularly good at flashy distractions: If a Wizard die comes up as a 6, the die is exhausted but you manage to escape.
@@ -109,10 +109,10 @@ To flee, roll one die taken from any hero card.  You are trying to undercut a 1:
 
 After resolving an encounter (either by winning the fight or by fleeing), the Cleric (Hearts) can attempt to heal any hero who is missing a die.  They can choose to heal themselves with this ability.
 
-Roll one of the Cleric's dice to undercut a 3:
+Roll one of the Cleric's dice to undercut a 4:
 
-+ On a 3 or less, the target hero recovers one of their dice from the exhaustion pool.
-+ On a 4 or 5, nothing happens.
++ On a 4 or less, the target hero recovers one of their dice from the exhaustion pool.
++ On a 5, nothing happens.
 + On a 6, the Cleric's die is exhausted.
 
 If the Cleric has no dice to roll during this Healing phase, they can instead attempt to recover one through prayer. Roll one of the Cleric's dice in the exhaustion pool.  On a 6, the Cleric recovers it.
@@ -137,9 +137,29 @@ If you'd like, you can play again with the same party of heroes.
 
 * Put your treasure pile back into the dungeon deck.
 * Add another Big Bad card to the dungeon deck.  (You don't need to put the Big Bad into the second half of the deck this time.)
-* For every 2 Big Bad cards in the deck, add one Diamonds face card (if still available). This represents a magic item. Once collected, you can choose to retain magic items in your treasure pile between dungeons.  At any time, you can expend a magic item from your treasure pile to add a phantom die that has a value of either 0 or 6 (that does not exhaust) to your encounter or fleeing pool. Once expended, return the magic item card to the face-card deck.
+* Add magic item cards (see below) such that the dungeon deck contains 2 magic items.  However, if heroes are currently holding 4 or 5 magic items, there will be only 1 or 0 magic item cards left to add to the dungeon deck.
 
-You can thus play through 6 dungeons of increasing difficulty, with the last dungeon containing 6 Big Bads. Keep a running tally of all treasure earned and magic items retained to determine your party's final score. 
+You can thus play through 6 dungeons of increasing difficulty, with the last dungeon containing 6 Big Bads. Keep a running tally of all treasure earned in each dungeon to determine your party's final score. 
+
+##### Magic Items
+
+Magic item cards represent consumable magic items. To build the magic item deck:
+
++ Add the three Diamond face cards from the face-cards deck.
++ Add the two Jokers.
+
+As noted above, draw up to two magic item cards from this deck to add to the dungeon deck at later dungeon levels.
+
+When you draw a magic item card from the dungeon deck to define your next encounter, treat them as Diamond cards.  Similarly, if you claim them as treasure, they go into your treasure pile. However, magic items do not have a treasure value when tallying treasure.
+
+Once collected, you can choose to retain magic items in your treasure pile between dungeons. At any time, you can expend a magic item from your treasure pile to produce its corresponding effect:
+
+| Card              | Represents                                                     | Effect                                                                                                        |
+| ----------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Diamond face card | Magical bauble, such as a scroll, spell gem, magic sword, etc. | Add a phantom die that has a value of either 0 or 6 (that does not exhaust) to your encounter or fleeing pool |
+| Joker             | Healing potion                                                 | A hero can recover one die from the exhaustion pool.                                                          |
+
+Once expended, return the magic item card to the magic item deck, where it can be drawn again to stock a future dungeon.
 
 ### Sample Layout
 
