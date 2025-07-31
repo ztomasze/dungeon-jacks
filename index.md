@@ -39,6 +39,7 @@ Your hero's suit determines their class:
 | Hearts   | Cleric  | A healing spellcaster             | Can apply 6s against Heart cards    <br>Can attempt to heal other heroes |
 | Spades   | Rogue   | A sneaky backstabbing combatant   | Can reroll 1s vs Spades                                                  |
 | Clubs    | Fighter | A burly straightforward combatant | Can reroll 1s vs Clubs                                                   |
+
 The abilities are explained in detail below.
 
 ##### Big Bad
