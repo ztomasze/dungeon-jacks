@@ -112,7 +112,7 @@ After resolving an encounter (either by winning the fight or by fleeing), the Cl
 Roll one of the Cleric's dice to undercut a 4:
 
 + On a 4 or less, the target hero recovers one of their dice from the exhaustion pool.
-+ On a 5, nothing happens.
++ On a 5 or higher, nothing happens.
 + On a 6, the Cleric's die is exhausted.
 
 If the Cleric has no dice to roll during this Healing phase, they can instead attempt to recover one through prayer. Roll one of the Cleric's dice in the exhaustion pool.  On a 6, the Cleric recovers it.
@@ -154,10 +154,10 @@ When you draw a magic item card from the dungeon deck to define your next encoun
 
 Once collected, you can choose to retain magic items in your treasure pile between dungeons. At any time, you can expend a magic item from your treasure pile to produce its corresponding effect:
 
-| Card              | Represents                                                     | Effect                                                                                                        |
-| ----------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Diamond face card | Magical bauble, such as a scroll, spell gem, magic sword, etc. | Add a phantom die that has a value of either 0 or 6 (that does not exhaust) to your encounter or fleeing pool |
-| Joker             | Healing potion                                                 | A hero can recover one die from the exhaustion pool.                                                          |
+| Card              | Represents                                                     | Effect                                                                                                                       |
+| ----------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Diamond face card | Magical bauble, such as a scroll, spell gem, magic sword, etc. | Add a phantom die to the current encounter or fleeing pool. Choose either 1 or 6 (that does not exhaust) as the die's value. |
+| Joker             | Healing potion                                                 | A hero can recover one die from the exhaustion pool.                                                                         |
 
 Once expended, return the magic item card to the magic item deck, where it can be drawn again to stock a future dungeon.
 
