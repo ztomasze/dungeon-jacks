@@ -175,4 +175,5 @@ Once expended, return the magic item card to the magic item deck, where it can b
 
 * Whenever you roll against Hearts or use a red hero ability, you're trying to roll low. Whenever you roll against a black card or use a black hero ability, you're trying to roll high.
 * Pick your battles. If you are facing a high monster card and several Hearts, but there is no treasure win, maybe it's time to walk (run!) away.  A single Wizard die will always get you away, and your next heal with usually recover it.
+* Your fortune can turn quickly.  When you're going up against a hard fight and rolling many dice, you can suddenly loose several dice to 6s, which then forces you to flee and lose at least one more.
 * If you're playing for points (such as when trying for Dungeon Ace status), you can play on "easy mode": Glance at the bottom of the dungeon deck when you're done shuffling it.  If it's not a black card, shuffle it again. This will guarantee you don't miss out on any treasure points due solely to an unlucky shuffle.
