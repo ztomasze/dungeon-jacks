@@ -91,9 +91,6 @@ Total the remaining dice in the encounter pool.
 * If the total is &gt;= the rank of the monster card (plus any Hearts cards you failed to undercut), you win the encounter. Collect any Diamonds cards into your treasure pile, and discard the rest of the encounter cards into a dungeon discard pile.
 * If you fail, you collect none of the treasure and you must flee (below).  Then discard all the encounter cards.
 
-> **Tip**  
-> Whenever you roll against Hearts or use a red hero ability, you're trying to roll low.  Whenever you roll against a black card or use a black hero ability, you're trying to roll high.
-
 ##### Fleeing
 
 You can choose to flee from an encounter instead of fighting. If you lose a fight, you must then flee.
@@ -115,7 +112,7 @@ Roll one of the Cleric's dice to undercut a 4:
 + On a 5 or higher, nothing happens.
 + On a 6, the Cleric's die is exhausted.
 
-If the Cleric has no dice to roll during this Healing phase, they can instead attempt to recover one through prayer. Roll one of the Cleric's dice in the exhaustion pool.  On a 6, the Cleric recovers it.
+If the Cleric has no dice to roll during this Healing phase, they can instead attempt to recover one through prayer. Roll one of the Cleric's dice in the exhaustion pool.  On a 4 or less, the Cleric recovers it.
 
 ##### Next Encounter
 
@@ -131,7 +128,7 @@ If, at any time, none of your hero cards have any dice on them, your party is to
 
 Once you've played through all the encounters in the dungeon deck, total up the value of all your collected treasure (Diamonds) cards.  This is your score for the dungeon.
 
-##### Level Up
+##### Dungeon Levels
 
 If you'd like, you can play again with the same party of heroes. 
 
@@ -168,3 +165,9 @@ Once expended, return the magic item card to the magic item deck, where it can b
 + *Top:* Current encounter
 + *Middle:* Dungeon deck / Hero cards / Exhaustion pool
 + *Bottom:* Dungeon discard pile / Treasure pile
+
+### Tips
+
+* Whenever you roll against Hearts or use a red hero ability, you're trying to roll low. Whenever you roll against a black card or use a black hero ability, you're trying to roll high.
+* Pick your battles. If you are facing a high monster card and several Hearts, but there is no treasure win, maybe it's time to walk (run!) away.  A single Wizard die will always get you away, and your next heal with usually recover it.
+* If you're playing for points (such as when trying for Dungeon Ace status), you can play on "easy mode": Glance at the bottom of the dungeon deck when you're done shuffling it.  If it's not a black card, shuffle it again. This will guarantee you don't miss out on any treasure points due solely to an unlucky shuffle.
