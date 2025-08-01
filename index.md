@@ -88,14 +88,16 @@ Select dice from your heroes to form a pool of dice and then roll it against thi
 
 Total the remaining dice in the encounter pool. 
 
-* If the total is &gt;= the rank of the monster card (plus any Hearts cards you failed to undercut), you win the encounter. Collect any Diamonds cards into your treasure pile, and discard the rest of the encounter cards into a dungeon discard pile.
-* If you fail, you collect none of the treasure and you must flee (below).  Then discard all the encounter cards.
+* If the total is &gt;= the rank of the monster card (plus any Hearts cards you failed to undercut), you win the encounter. Collect any Diamonds cards into your treasure pile.
+* If you fail, you collect none of the treasure and you must flee (below). 
+
+Return any unexhausted dice from the encounter pool to your hero cards.
 
 ##### Fleeing
 
 You can choose to flee from an encounter instead of fighting. If you lose a fight, you must then flee.
 
-To flee, roll one die taken from any hero card. If you are fleeing a fight, you can reuse any die from you encounter pool.  You are trying to undercut a 1:
+To flee, roll one die taken from any hero card. You are trying to undercut a 1:
 
 + On a 6, the die is exhausted without effect. You have not yet escaped, so you must roll another die to flee.
 	+ Wizards (Diamonds hero) are particularly good at flashy distractions: If a Wizard die comes up as a 6, the die is exhausted but you manage to escape.
@@ -116,7 +118,10 @@ If the Cleric has no dice to roll during this Healing phase, they can instead at
 
 ##### Next Encounter
 
-Now you can draw the next encounter from the dungeon deck.  
+You can now start the next encounter:
+
++ Discard any remaining cards from the previous encounter into a dungeon discard pile.
++ Draw the next encounter from the dungeon deck.  
 
 When you reach the end of the dungeon deck, you might draw a number of red cards (Hearts and Diamonds) with no final monster encounter.  This represents the secret doors and hidden treasure that your heroes missed along the way.
 
