@@ -5,7 +5,7 @@ Dungeon Jacks is a simple solitaire dungeon-crawling game that you can play usin
 ### Supplies
 
 + 1 x deck of playing cards
-+ 16 x six-sided dice (d6s) - 4 each of four different colors or design.
++ 16 x six-sided dice (d6s) - 4 each of four different colors or design
 
 You will use only 10 of the dice at a time during a single dungeon crawl, but the game is more enjoyable if you can consistently assign the same color dice to the same suit every time you play.
 
@@ -33,12 +33,12 @@ Place the corresponding number of dice on each card, using a different color or 
 
 Your hero's suit determines their class:
 
-| Suit     | Class   | Description                       | Ability                                                     |
-| -------- | ------- | --------------------------------- | ----------------------------------------------------------- |
-| Diamonds | Wizard  | A flashy spellcaster              | Can apply 6s vs Hearts and when fleeing                     |
-| Hearts   | Cleric  | A healing spellcaster             | Can apply 6s vs Hearts and can attempt to heal other heroes |
-| Spades   | Rogue   | A sneaky backstabbing combatant   | Can reroll 1s vs Spades                                     |
-| Clubs    | Fighter | A burly straightforward combatant | Can reroll 1s vs Clubs                                      |
+| Suit     | Class   | Description                       | Ability                                                         |
+| -------- | ------- | --------------------------------- | --------------------------------------------------------------- |
+| Diamonds | Wizard  | A flashy spellcaster              | Can apply 6s versus Hearts and when fleeing                     |
+| Hearts   | Cleric  | A healing spellcaster             | Can apply 6s versus Hearts and can attempt to heal other heroes |
+| Spades   | Rogue   | A sneaky backstabbing combatant   | Can reroll 1s versus Spades                                     |
+| Clubs    | Fighter | A burly straightforward combatant | Can reroll 1s versus Clubs                                      |
 
 The abilities are explained in detail below.
 
@@ -79,17 +79,17 @@ Once you have defined the encounter, you can choose to either fight or flee.
 Select dice from your heroes to form a pool of dice and then roll it against this encounter. 
 
 + If any of the dice come up 6, they are **exhausted**. Immediately remove them from the encounter pool and place them off to the side in an exhaustion pool.
-+ **Against Clubs:** The Fighter (Clubs hero) is good at wading in against multiple foes. If any of the Fighter's dice come up as 1s while facing a Clubs monster card, you can choose to reroll them. (You might reroll into a 6, though!)
-+ **Against Spades:** The Rogue (Spades hero) is good at circling around a single foe to find a weak spot. If any of the Rogue's dice come up as 1s while facing a Spades monster card, you can choose to reroll them. (You might reroll into a 6, though!)
++ **Against Clubs:** The Fighter (Clubs hero) is good at wading in against multiple foes. If any of the Fighter's dice come up as 1s while facing a Clubs monster card, you can choose to reroll them until they are no longer 1s. (You might reroll into a 6, though!)
++ **Against Spades:** The Rogue (Spades hero) is good at circling around a single foe to find a weak spot. If any of the Rogue's dice come up as 1s while facing a Spades monster card, you can choose to reroll them until they are no longer 1s. (You might reroll into a 6, though!)
 + **Against Hearts:** If there are any Hearts in the encounter, you can assign up to one die from your rolled encounter pool to each Hearts card. 
 	+ If the assigned die is &lt;= the rank of the Hearts card, you have deviously undercut that defense and so it can be ignored.  
 	+ If you fail to undercut a Hearts card in this way, add its rank to the monster card, which increases the encounter's difficulty. 
-	+ As spellcasters, the Wizard (Diamonds hero) and and Cleric (Hearts hero) have more options available to them when it comes overcoming the unexpected: If one of their dice comes up as a 6, you can assign it to a Hearts card as a 0 value until the encounter is resolved. The die is then exhausted as normal.
+	+ As spellcasters, the Wizard (Diamonds hero) and and Cleric (Hearts hero) have more options available to them when it comes overcoming the unexpected: If any of their dice comes up as a 6, you can assign it to a Hearts card as a 0 value until the encounter is resolved. The die is then exhausted as normal.
 
 Total the remaining dice in the encounter pool. 
 
 * If the total is &gt;= the rank of the monster card (plus any Hearts cards you failed to undercut), you win the encounter. Collect any Diamonds cards into your treasure pile.
-* If you fail, you collect none of the treasure and you must flee (below). 
+* If you fail, you collect none of the treasure and you must now flee (below). 
 
 Return any unexhausted dice from the encounter pool to your hero cards.
 
@@ -127,7 +127,7 @@ When you reach the end of the dungeon deck, you might draw a number of red cards
 
 ##### Losing (TPK)
 
-If, at any time, none of your hero cards have any dice on them, your party is too exhausted to make it out the dungeon.  You suffer a total party kill.
+If, at any time, none of your hero cards have any dice on them, your party is too exhausted to make it out the dungeon.  You suffer a total party kill.  Time to shuffle and draw a new party!
 
 ##### Winning
 
@@ -138,7 +138,7 @@ Once you've played through all the encounters in the dungeon deck, total up the 
 If you'd like, you can play again with the same party of heroes. 
 
 * Put your treasure pile back into the dungeon deck.
-* Add another Big Bad card to the dungeon deck.  (You don't need to put the Big Bad into the second half of the deck this time.)
+* Add another Big Bad card to the dungeon deck.  (You don't need to put any of the Big Bads into the second half of the deck this time.)
 * Add magic item cards (see below) such that the dungeon deck contains 2 magic items.  However, if heroes are currently holding 4 or 5 magic items, there will be only 1 or 0 magic item cards left to add to the dungeon deck.
 
 You can thus play through 6 dungeons of increasing difficulty, with the last dungeon containing 6 Big Bads. Keep a running tally of all treasure earned in each dungeon to determine your party's final score. If, through a combination of luck and skill, you can earn 300+ points, you are a Dungeon Ace!
@@ -167,13 +167,13 @@ Once expended, return the magic item card to the magic item deck, where it can b
 
 ![Sample layout](dungeon-jacks.png)
 
-+ *Top:* Current encounter
-+ *Middle:* Dungeon deck / Hero cards / Exhaustion pool
-+ *Bottom:* Dungeon discard pile / Treasure pile
++ *Top row:* Current encounter
++ *Middle row:* Dungeon deck / Hero cards / Exhaustion pool
++ *Bottom row:* Dungeon discard pile / Treasure pile
 
 ### Tips
 
 * Whenever you roll against Hearts or use a red hero ability, you're trying to roll low. Whenever you roll against a black card or use a black hero ability, you're trying to roll high.
-* Pick your battles. If you are facing a high monster card and several Hearts, but there is no treasure win, maybe it's time to walk (run!) away.  A single Wizard die will always get you away, and your next heal with usually recover it.
-* Your fortune can turn quickly.  When you're going up against a hard fight and rolling many dice, you can suddenly loose several dice to 6s, which then forces you to flee and lose at least one more.
-* If you're playing for points (such as when trying for Dungeon Ace status), you can play on "easy mode": Glance at the bottom of the dungeon deck when you're done shuffling it.  If it's not a black card, shuffle it again. This will guarantee you don't miss out on any treasure points due solely to an unlucky shuffle.
+* Pick your battles. If you are facing a high monster card and several Hearts, but there is no treasure to win, maybe it's time to walk (run!) away.  A single Wizard die will always get you away, and your next heal will usually recover it.
+* Your fortune can turn quickly.  When you're going up against a hard fight and rolling many dice, you can suddenly lose several dice to 6s. This heavy loss of encounter pool power often means you also lose the battle, which will force you to flee and lose yet another die (usually). In later dungeons, magic items can help you salvage or recover from such disastrous encounters.
+* If you're playing for points (such as when trying for Dungeon Ace status), you can play on "easy mode": Glance at the bottom of the dungeon deck when you're done shuffling it.  If it's not a black card, shuffle it again. This will guarantee you don't miss out on any potential treasure points due solely to an unlucky shuffle.
