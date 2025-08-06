@@ -127,7 +127,7 @@ When you reach the end of the dungeon deck, you might draw a number of red cards
 
 ##### Losing (TPK)
 
-If, at any time, none of your hero cards have any dice on them, your party is too exhausted to make it out the dungeon.  You suffer a total party kill.  Time to shuffle and draw a new party!
+If, at any time, your heroes have no unexhausted dice left, your party is too weak and battered to make it out the dungeon.  You suffer a total party kill.  Time to shuffle and draw a new party!
 
 ##### Winning
 
